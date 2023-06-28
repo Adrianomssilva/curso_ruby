@@ -1,7 +1,7 @@
-require "cpf_validator"
+require "cpf_cnpj"
 
 def check_cpf(num_cpf)
-   if CPF.valid(num_cpf)
+   if CPF.valid?(num_cpf)
       puts "Esse cpf é válido"
    else
       puts "Esse cpf não é válido"
