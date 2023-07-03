@@ -1,4 +1,4 @@
-Como você já sabe objetos possuem informações e comportamentos.
+# Como você já sabe objetos possuem informações e comportamentos.
 #Vimos uma parte deste conteúdo utilizando métodos para representar comportamentos. 
 # Agora vamos  aprender a adicionar e recuperar informações de um objeto.
 
@@ -33,3 +33,4 @@ puts aluno.idade
 
 aluno.cidade = 'São Paulo'
 puts aluno.cidade
+
