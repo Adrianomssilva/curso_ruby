@@ -5,3 +5,5 @@
 end
 
 4.times {puts "teste"}
+
+#  Essas são as duas formas de escrever... Como posso aplicar isso em uma operação?
